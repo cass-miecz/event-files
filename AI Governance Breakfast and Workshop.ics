@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//AI Governance Breakfast and Workshop//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f1130a2-483c-415f-b57c-7f466056780b@chatgpt.local
+DTSTAMP:20260506T145913Z
+DTSTART;TZID=America/New_York:20260528T074500
+DTEND;TZID=America/New_York:20260528T084500
+SUMMARY:AI Governance Breakfast and Workshop
+LOCATION:SingleStone Office\, 2000 West Marshall St.\, Richmond\, VA 23220
+DESCRIPTION:AI Governance breakfast discussion hosted at the SingleStone office. Small candid peer conversation for government and financial services leaders about responsible AI adoption\, governance structures\, innovation\, risk\, compliance\, and organizational readiness. Please RSVP by May 22.\n\nContact: Jim Garrity\, Chief Client Officer\njgarrity@singlestoneconsulting.com\n434-989-8915
+END:VEVENT
+END:VCALENDAR
